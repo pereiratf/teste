@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650200061 source:d:\workspace\flapbird\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
